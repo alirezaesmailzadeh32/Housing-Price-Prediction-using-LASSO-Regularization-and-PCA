@@ -40,7 +40,7 @@ PCA was used for:
 7. Final model evaluation
 
 ## Results
-- Final RMSE: 3,420,783
+- Final RMSE: 3,420,783 ( the RMSE looks large because house prices are in millions)
 - 10-fold cross-validation
 - Optimal lambda selected through grid search
 
@@ -51,6 +51,18 @@ The project demonstrates how machine learning can improve real-estate price pred
 - Larger lambda values shrink coefficients toward zero
 - LASSO successfully performed feature selection
 - PCA reduced dimensionality while preserving variance structure
+  
+## Skills Demonstrated
+- Machine Learning
+- LASSO Regression
+- PCA
+- Cross-Validation
+- Hyperparameter Tuning
+- Feature Engineering
+- Data Preprocessing
+- Predictive Analytics
+- Statistical Modeling
+- R Programming
 
 ## Repository Structure
 Housing-Price-Prediction-LASSO-PCA/
