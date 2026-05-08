@@ -50,3 +50,19 @@ PCA was used for:
 - PCA reduced dimensionality while preserving variance structure
 
 ## Repository Structure
+Housing-Price-Prediction-LASSO-PCA/
+│
+├── data/
+│   └── housing_data.csv
+│
+├── scripts/
+│   └── housing_analysis.R
+│
+├── outputs/
+│   ├── regularization_path.png
+│   ├── pca_loadings.png
+│   └── validation_curve.png
+│
+├── README.md
+├── .gitignore
+└── Housing_Price_Analysis.Rproj
