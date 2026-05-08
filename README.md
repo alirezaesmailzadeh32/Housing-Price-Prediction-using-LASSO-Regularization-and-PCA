@@ -44,6 +44,9 @@ PCA was used for:
 - 10-fold cross-validation
 - Optimal lambda selected through grid search
 
+## Business Interpretation
+The project demonstrates how machine learning can improve real-estate price prediction while controlling overfitting through regularization techniques. The workflow reflects practical applications of predictive analytics in finance and real-estate valuation.
+
 ## Key Insights
 - Larger lambda values shrink coefficients toward zero
 - LASSO successfully performed feature selection
